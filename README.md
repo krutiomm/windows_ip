@@ -1,2 +1,1 @@
-# windows_ip
-python,  get ip and send email
+# 获取ip 并发送至指定邮箱
